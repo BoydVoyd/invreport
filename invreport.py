@@ -12,5 +12,3 @@ else:
     except Exception, e:
         print "Couldn't load " + sys.argv[1]
         print "Error: " + str(e)
-
-
